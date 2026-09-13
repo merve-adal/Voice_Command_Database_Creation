@@ -1,5 +1,4 @@
 
-```markdown
 # Voice Command Database Creation
 
 This project focuses on creating a database to store and manage voice commands within a user-friendly web application. The goal is to provide an efficient interface for users to record audio commands and retrieve them using voice recognition technology. The system facilitates audio storage, search capabilities, and playback features in both Turkish and English languages.
@@ -49,11 +48,9 @@ python manage.py runserver
 
 ## 👥 Contributors
 
+* Merve Adalı 
 * Recep Sami Özdemir 
 * İbrahim Mert Günay 
 * Muhammet Melikan Atalay 
-* Merve Adalı 
-
-```
 
 ```
