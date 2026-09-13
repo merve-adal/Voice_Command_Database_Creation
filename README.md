@@ -49,9 +49,11 @@ python manage.py runserver
 
 ## 👥 Contributors
 
-* Merve Adalı 
 * Recep Sami Özdemir 
 * İbrahim Mert Günay 
 * Muhammet Melikan Atalay 
+* Merve Adalı 
+
+```
 
 ```
